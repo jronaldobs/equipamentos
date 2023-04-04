@@ -1,0 +1,17 @@
+Instalar bibliotecas
+
+pyautogui
+pillow
+mouseinfo
+
+
+No prompt de comando digite:
+pip install pyautogui pillow mouseinfo
+
+
+encontrar as coordenadas para clicar/digitar.
+
+Abra o prompt
+digite: python
+from mouseinfo import mouseInfo
+mouseInfo() 
